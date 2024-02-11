@@ -41,6 +41,8 @@ To use the application, users need to follow these steps
 
 Execute the app.py script to start the Flask web server.
 
+To run the python file make sure you have created a template folder and inside the folder add the html file, the python file should not be in the template folder.
+
 # Access the Application:
 
 Open a web browser and go to to access the Application Link Tracker.
